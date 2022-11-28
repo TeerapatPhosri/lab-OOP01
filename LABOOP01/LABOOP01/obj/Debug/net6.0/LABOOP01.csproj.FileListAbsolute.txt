@@ -1,0 +1,15 @@
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\bin\Debug\net6.0\LABOOP01.exe
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\bin\Debug\net6.0\LABOOP01.deps.json
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\bin\Debug\net6.0\LABOOP01.runtimeconfig.json
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\bin\Debug\net6.0\LABOOP01.dll
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\bin\Debug\net6.0\ref\LABOOP01.dll
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\bin\Debug\net6.0\LABOOP01.pdb
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\obj\Debug\net6.0\LABOOP01.csproj.AssemblyReference.cache
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\obj\Debug\net6.0\LABOOP01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\obj\Debug\net6.0\LABOOP01.AssemblyInfoInputs.cache
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\obj\Debug\net6.0\LABOOP01.AssemblyInfo.cs
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\obj\Debug\net6.0\LABOOP01.csproj.CoreCompileInputs.cache
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\obj\Debug\net6.0\LABOOP01.dll
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\obj\Debug\net6.0\ref\LABOOP01.dll
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\obj\Debug\net6.0\LABOOP01.pdb
+D:\Teerapat_CIS\Source-code\lab-OOP01\LABOOP01\LABOOP01\obj\Debug\net6.0\LABOOP01.genruntimeconfig.cache
